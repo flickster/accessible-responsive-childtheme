@@ -23,7 +23,10 @@ Responsive WordPress Theme, Copyright (C) 2003-2012 Emil Uzelac
 /* =Start From Here
 -------------------------------------------------------------- */
 
-
+.screen-reader-text{
+  position: absolute !important;
+	clip: rect(1px, 1px, 1px, 1px);
+}
 
 
 
